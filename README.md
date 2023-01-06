@@ -3,9 +3,13 @@
 
 - 🔭 I’m currently working on [AIOS](https://github.com/AllInOpenSource/All-In/blob/main/README.md) (All In For Students 2023)
 - 🌱 I’m currently learning Data Structures with C++ :triangular_ruler: as well as Calculus II and a few Physics courses.
-- :books: Recently I have been spending a lot of freetime reading! 
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him
+
+## 🙌 Hobbies
+
+- :books: Recently I have been spending a lot of freetime reading! 
+- 🎬 Finishing my letterboxd watchlist.
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
