@@ -2,7 +2,7 @@
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
 - 🔭 I’m currently working on [AIOS](https://github.com/AllInOpenSource/All-In/blob/main/README.md) (All In For Students 2023)
-- 🌱 I’m currently learning Data Structures with C++ :triangular_ruler: as well as Calculus II and a few Physics courses.
+- 🌱 I’m currently learning Data Structures with C++ :triangular_ruler: as well as Calculus II and a few different Physics courses.
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him
 
