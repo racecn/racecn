@@ -1,10 +1,10 @@
-### Hi there! 👋 I'm Nathan Race. 
+### Hi there! 👋 I'm Nathan Race. 🦭
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
-- 🔭 I’m currently working on [AIOS](https://github.com/AllInOpenSource/All-In/blob/main/README.md) (All In For Students 2023)
-- 🌱 I’m currently learning Data Structures with C++ :triangular_ruler: as well as Calculus II and a few different Physics courses.
+- 🔭 I’m currently working on offline side projects.
+- 🌱 I’m currently learning HTML and JS in a frontend course :triangular_ruler: as well as Calculus III.
 - 📫 How to reach me: Email: racecn@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 
 
 ## 🙌 Hobbies
 
