@@ -2,14 +2,14 @@
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
 - 🔭 I’m currently working on offline side projects.
-- 🌱 I’m currently learning HTML and JS in a frontend course :triangular_ruler: as well as Calculus III.
+- 🌱 I’m currently learning Java, Calculus-Based Physics :triangular_ruler: as well as Linear Algebra!
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him 
 
 ## 🙌 Hobbies
 
 - :books: Recently I have been spending a lot of freetime reading! 
-- 🎬 Finishing my letterboxd watchlist.
+- 🎬 Finishing my Letterboxd watchlist.
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
