@@ -2,7 +2,7 @@
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
 - 🔭 I’m currently working on offline side projects.
-- 🌱 I’m currently learning Java, Calculus-Based Physics :triangular_ruler: as well as Linear Algebra!
+- 🌱 I’m currently learning HCI, SQL and PHP, SWE with GitHub, as well as Statistics Utilization with Python!
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him 
 
