@@ -2,13 +2,18 @@
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
 - 🔭 I’m currently working on offline side projects.
-- 🌱 I’m currently learning HCI, SQL and PHP, SWE with GitHub, as well as Statistics Utilization with Python!
+- 🌱 I’m currently learning about...
+  - Human-Computer Interaction
+  - SQL and PHP
+  - Agile SWE with Scrum/Git
+  - Statistics Utilization with Python
+  - ReactJS & Next.JS
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him 
 
 ## 🙌 Hobbies
 
-- :books: Recently I have been spending a lot of freetime reading! 
+- :books: I have been spending a lot of my free time reading recently! 
 - 🎬 Finishing my Letterboxd watchlist.
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
