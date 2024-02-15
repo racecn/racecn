@@ -14,7 +14,7 @@
 ## 🙌 Hobbies
 
 - :books: I have been spending a lot of my free time reading recently! 
-- 🎬 Finishing my Letterboxd watchlist.
+- 🎬 Finishing my Letterboxd watchlist!
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
