@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Nathan Race. 🦭
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
-- 🔭 I’m currently working on Novelology, and an OpenGL Solar System simulator
+- 🔭 I’m currently working on Novelology, and an OpenGL based Solar System simulator
 - 🌱 I’m currently learning about...
   - Human-Computer Interaction
   - SQL and PHP
