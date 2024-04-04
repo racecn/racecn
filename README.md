@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on Novelology, and an OpenGL based Solar System simulator
 - 🌱 I’m currently learning about...
   - Human-Computer Interaction
-  - SQL and PHP
+  - SQL and PHP w/ MariaDB, and Neon
   - Agile SWE with Scrum/Git
-  - Statistics Utilization with Python
+  - Statistical Analysis with Python
   - ReactJS & Next.JS
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him 
