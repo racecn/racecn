@@ -1,20 +1,18 @@
 ### Hi there! 👋 I'm Nathan Race. 🦭
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
-- 🔭 I’m currently working on Novelology, and an OpenGL based Solar System simulator
+- 🔭 I’m currently working at the American Foundation for the Blind as a Digital Accessibility Bootcamp Intern
 - 🌱 I’m currently learning about...
-  - Human-Computer Interaction
-  - SQL and PHP w/ MariaDB, and Neon
-  - Agile SWE with Scrum/Git
-  - Statistical Analysis with Python
-  - ReactJS & Next.JS
+  - Computer OS's via OpenSUSE Tumbleweed and the C language.
+  - Automata
+  - Algorithm Theory
 - 📫 How to reach me: Email: racecn@gmail.com
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
 
-## 🙌 Hobbies
+## Personal Dev. Interests:
+- Graphics programming with OpenGL and C++ 👁️🎆
+- LIDAR data visualization with OpenCV and matplotlib via Python 🤖
 
-- :books: I have been spending a lot of my free time reading recently! 
-- 🎬 Finishing my Letterboxd watchlist!
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
