@@ -1,11 +1,11 @@
 ### Hi there! 👋 I'm Nathan Race. 🦭
 ## A Computer Science student at Wayne State University in Detroit, MI.
 
-- 🔭 I’m currently working at the American Foundation for the Blind as a Digital Accessibility Bootcamp Intern
+- 🔭 I’m currently working at the American Foundation for the Blind as a Digital Accessibility Work Study Intern
 - 🌱 I’m currently learning about...
-  - Computer OS's via OpenSUSE Tumbleweed and the C language.
-  - Automata
-  - Algorithm Theory
+  - Application development with Flutter/Dart
+  - AI
+  - Computer Vision
 - 📫 How to reach me: Email: racecn@gmail.com
 - 😄 Pronouns: He/Him
 
