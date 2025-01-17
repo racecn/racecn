@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Nathan Race. 🦭
-## A Computer Science student at Wayne State University in Detroit, MI.
+## B.S. in Computer Science from Wayne State University in Detroit, MI.
 
 - 🔭 I’m currently working at the American Foundation for the Blind as a Digital Accessibility Work Study Intern
 - 🌱 I’m currently learning about...
