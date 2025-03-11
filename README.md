@@ -50,7 +50,3 @@
 ![Agile](https://img.shields.io/badge/Agile-0052CC.svg?&style=flat&logo=jira&logoColor=white)&nbsp;
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white)&nbsp;
 
-
-### Design:
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
